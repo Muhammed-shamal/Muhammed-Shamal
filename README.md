@@ -1,4 +1,4 @@
-### Hi 👋 My name is Muhammed Shamal You can call me as Chemmu
+### Hi 👋 My name is Muhammed Shamal You can call me as Chemmu || Shammu
 
 <!--
 **Muhammed-shamal/Muhammed-Shamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
