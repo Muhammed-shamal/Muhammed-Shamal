@@ -1,7 +1,9 @@
+
 ### Hi 👋 My name is Muhammed Shamal You can call me as Chemmu || Shammu
 
 <!--
 **Muhammed-shamal/Muhammed-Shamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+# 🚀 Aspiring Full-Stack Developer, Passionate Public Speaker, and Car Enthusiast
 
 - 😁 I'm open to collaborating on React and Node.js projects
 - 🤔 I’m looking for help with ...
