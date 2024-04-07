@@ -6,7 +6,6 @@
 # 🚀 Aspiring Full-Stack Developer, Passionate Public Speaker, and Car Enthusiast
 
 - 😁 I'm open to collaborating on React and Node.js projects
-- 🤔 I’m looking for help with ...
 - 📫 I’m currently learning Node js to to sharp the perfomence in MERN STACK
 - 😄 I've done a lot of Projects using React + Firebase Database
 
