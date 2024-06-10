@@ -21,3 +21,7 @@
 
 🌱 Always eager to learn and collaborate on exciting projects. Let's connect!
 😊 You can hire me without any Doubt...
+
+
+
+![Muhammed-shamal's Stats](https://github-readme-stats.vercel.app/api?username=Muhammed-shamal&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
