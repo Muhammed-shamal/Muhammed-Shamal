@@ -30,9 +30,6 @@
 </div>
 
 
-
-  And currently now I'm a Frontend Developer, and I'am in the way of FULL STACK === Mern stack Developer;
-
 🌱 Always eager to learn and collaborate on exciting projects. Let's connect!
 😊 You can hire me without any Doubt...
 
