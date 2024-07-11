@@ -15,8 +15,12 @@
   🔧 Tech Stack:
   
   🌐 Frontend: HTML, CSS, JavaScript, React
+  
   🌐 Backend: Node.js, Express, MongoDB
+  
   🚀 Tools: Git, VS Code,Firebase🔥
+
+  🚀 State management: Redux,Context Api
   
 
  <div align="center">
