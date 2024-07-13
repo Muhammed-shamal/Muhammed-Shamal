@@ -38,6 +38,8 @@
 🌱 Always eager to learn and collaborate on exciting projects. Let's connect!
 😊 You can hire me without any Doubt...
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Muhammed-shamal" alt="Muhammed-shamal 🏆" /></a> </p>
+
 
 
 ![Muhammed-shamal's Stats](https://github-readme-stats.vercel.app/api?username=Muhammed-shamal&theme=react&show_icons=true&hide_border=true&count_private=true)
