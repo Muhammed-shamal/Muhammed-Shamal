@@ -32,8 +32,12 @@
   <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="Jest" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
+   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+   <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
 </div>
 
+ 
 
 🌱 Always eager to learn and collaborate on exciting projects. Let's connect!
 😊 You can hire me without any Doubt...
