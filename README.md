@@ -36,13 +36,14 @@
    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
    <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
 </div>
-
  
 
 🌱 Always eager to learn and collaborate on exciting projects. Let's connect!
 😊 You can hire me without any Doubt...
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Muhammed-shamal" alt="Muhammed-shamal 🏆" /></a> </p>
+
+[![](https://visitcount.itsvg.in/api?id=Muhammed-shamal&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
 
 
