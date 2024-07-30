@@ -1,26 +1,53 @@
 
-### Hi 👋 My name is Muhammed Shamal You can call me as Chemmu || Shammu
+---
 
-<!--
-**Muhammed-shamal/Muhammed-Shamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-# 🚀 Aspiring Full-Stack Developer, Passionate Public Speaker, and Car Enthusiast
+# 👋 Hi there!
 
-- 😁 I'm open to collaborating on React and Node.js projects
-- 📫 I’m currently learning Node js to to sharp the perfomence in MERN STACK
-- 😄 I've done a lot of Projects using React + Firebase Database
+I'm **Muhammed Shamal PV**, but you can call me **Chemmu** or **Shammu**. I'm a proficient MERN Stack Developer passionate about creating efficient and scalable web applications.
 
-  🚀 Self-taught Developer | 💻 Open Source Enthusiast | 📚 Lifelong Learner
-  🌍 Exploring the world of code, one project at a time.
+## 🚀 About Me
 
-  🔧 Tech Stack:
-  
-  🌐 Frontend: HTML, CSS, JavaScript, React
-  
-  🌐 Backend: Node.js, Express, MongoDB
-  
-  🚀 Tools: Git, VS Code,Firebase🔥
+- 👨‍💻 Open to collaborating on **React** and **Node.js** projects.
+- 🛠 Currently sharpening my skills in **Node.js** to optimize performance in MERN stack applications.
+- 🎉 Completed numerous projects using **React** and **Firebase Database**.
+- 💡 Self-taught developer with a deep love for open source and continuous learning.
+- 🌍 Exploring the world of code, one project at a time.
+- 🎤 Passionate public speaker and mentor, aiming to inspire new coders.
 
-  🚀 State management: Redux,Context Api
+## 📫 How to reach me
+
+- **LinkedIn:** [Muhammed Shamal PV](https://www.linkedin.com/in/muhammed-shamal-pv-3a27b9244/)
+- **Email:** [muhammedshamalpv@gmail.com](mailto:muhammedshamalpv@gmail.com)
+
+## 🛠 Skills
+
+- **Frontend:** 
+  - React
+  - Redux
+  - Tailwind CSS
+  - Material-UI
+- **Backend:** 
+  - Node.js
+  - Express.js
+- **Database:** 
+  - MongoDB
+  - Firebase
+- **Tools:** 
+  - Git
+  - Docker
+  - Webpack
+
+## 🌟 Highlights
+
+- Proficient in building and managing full-stack web applications using the MERN stack.
+- Experience with dynamic and interactive UI/UX design.
+- Strong background in handling real-time databases with Firebase.
+- Committed to writing clean, maintainable, and efficient code.
+- Active contributor to open source projects and communities.
+- Enthusiast in making cars luxurious and classy, with a particular interest in enhancing comfort and style.
+
+---
+
   
 
  <div align="center">
