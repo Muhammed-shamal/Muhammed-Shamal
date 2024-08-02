@@ -23,6 +23,7 @@ I'm **Muhammed Shamal PV**, but you can call me **Chemmu** or **Shammu**. I'm a 
 
 - **Frontend:** 
   - React
+  - Next JS
   - Redux
   - Tailwind CSS
   - Material-UI
