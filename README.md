@@ -74,10 +74,6 @@ I'm **Muhammed Shamal PV**, but you can call me **Chemmu** or **Shammu**. I'm a 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Muhammed-shamal" alt="Muhammed-shamal 🏆" /></a> </p>
 
-[![](https://visitcount.itsvg.in/api?id=Muhammed-shamal&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
-
-
-
 ![Muhammed-shamal's Stats](https://github-readme-stats.vercel.app/api?username=Muhammed-shamal&theme=react&show_icons=true&hide_border=true&count_private=true)
 
 
