@@ -63,9 +63,6 @@ I'm **Muhammed Shamal PV**, but you can call me **Chemmu** or **Shammu**. I'm a 
   <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="Jest" width="65" height="65" />
-<!--   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" /> -->
-   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-   <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
 </div>
  
 
