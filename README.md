@@ -9,6 +9,9 @@
 
 I'm **Muhammed Shamal PV**, but you can call me **Chemmu** or **Shammu**. I'm a proficient MERN Stack Developer passionate about creating efficient and scalable web applications.
 
+I am a self-taught Full-Stack Developer specializing in the MERN stack (React, Next.js, Node.js) and mobile app development with Flutter.
+My expertise includes state management with Redux and Bloc, building scalable web and mobile applications, and solving complex problems.
+
 ## 🚀 About Me
 
 - 👨‍💻 Open to collaborating on **React** and **Node.js** projects.
