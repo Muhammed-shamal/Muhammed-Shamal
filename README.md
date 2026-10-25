@@ -25,7 +25,7 @@ My expertise includes state management with Redux and Bloc, building scalable we
 
 - **LinkedIn:** [Muhammed Shamal PV](https://www.linkedin.com/in/muhammed-shamal-pv-3a27b9244/)
 - **Email:** [muhammedshamalpv@gmail.com](mailto:muhammedshamalpv@gmail.com)
-- **Instagra:** [muhammedshamalpeevee] https://www.instagram.com/muhammedshamalpeevee/
+- **Instagram:** [muhammedshamalpeevee] https://www.instagram.com/muhammedshamalpeevee/
 
 ## 🛠 Skills
 
